@@ -1,0 +1,5 @@
+Employee ID: 101
+Name: Samchita
+Address: Manamaiju
+DOB: 2005/01/26
+Phone Number: 78237493209

@@ -1,0 +1,18 @@
+# Compiled Java files
+*.class
+
+# JDBC and database drivers
+AdvancedJava/jdbc driver/
+AdvancedJava/com/
+AdvancedJava/mysql-connector-j-9.6.0/
+AdvancedJava/META-INF/
+AdvancedJava/INFO_BIN
+AdvancedJava/INFO_SRC
+AdvancedJava/LICENSE
+AdvancedJava/README
+
+# Tomcat server
+tomcat/
+
+# Documents folder (optional — remove this line if you want to push it)
+Documents/
