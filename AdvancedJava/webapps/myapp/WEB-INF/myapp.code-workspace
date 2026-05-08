@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			".",
+			"src"
+		],
+		"java.project.referencedLibraries": [
+			"c:\\Users\\User\\Downloads\\tomcat\\apache-tomcat-10.1.54\\lib\\servlet-api.jar"
+		]
+	}
+}
